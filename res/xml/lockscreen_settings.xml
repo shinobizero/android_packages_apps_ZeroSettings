@@ -14,12 +14,6 @@
      limitations under the License.
 -->
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
-        xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
-        android:title="@string/zero_settings_title" >
-
-    <PreferenceScreen
-            android:fragment="com.zero.settings.fragments.LockScreenSettings"
-            android:key="zero_lockscreen_settings"
-            android:title="@string/lockscreen_settings_title"/>
+    xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
 
 </PreferenceScreen>

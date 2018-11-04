@@ -15,4 +15,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
+    <!-- Lockscreen Fragment -->
+    <string name="lockscreen_settings_title">Lockscreen</string>
+
 </resources>
